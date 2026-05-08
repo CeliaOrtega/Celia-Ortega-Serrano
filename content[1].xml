@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026050818250117QEH7</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508182501TJTPOC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>MY DAILY ROUTINE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778257486155</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mox4ldsi-fidusfza7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INICIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldsi-fidusfza7</odePageId>
+      <odeBlockId>block-1778093789972-i0er00h1i</odeBlockId>
+      <blockName>Inicio</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldsi-fidusfza7</odePageId>
+          <odeBlockId>block-1778093789972-i0er00h1i</odeBlockId>
+          <odeIdeviceId>idevice-1778093789972-7d2ypez86</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif; color: #c77e98;"><strong><img src="{{context_path}}/content/resources/Eye on London - Ein Auge auf London - StoryTiles - 13x13cm StoryTiles Medium.jpg" width="902" height="902" alt="" style="vertical-align: bottom;" />MY DAILY ROUTINE</strong></span><br /><span style="font-family: 'comic sans ms', sans-serif; color: #c77e98;"><strong>A Digital English Project</strong></span></h1>
+<p><br /></p>
+<h3 style="text-align: center;"><strong><span style="font-family: 'comic sans ms', sans-serif; color: #bfedd2;">3º Educación Primaria</span></strong><br /><strong><span style="font-family: 'comic sans ms', sans-serif; color: #bfedd2;">Área de Inglés</span></strong><br /><strong><span style="font-family: 'comic sans ms', sans-serif; color: #bfedd2;">Autora: Celia Ortega Serrano</span></strong></h3>
+<p><br /></p>
+<h5 style="text-align: center;"><span style="color: #f8cac6; background-color: #ffffff;"><em><span style="font-family: georgia, palatino, serif;">Learn English through daily routines and digital creation.</span></em></span></h5>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778093789972-7d2ypez86","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><span style=\"font-family: 'comic sans ms', sans-serif; color: #c77e98;\"><strong><img src=\"{{context_path}}/content/resources/Eye on London - Ein Auge auf London - StoryTiles - 13x13cm StoryTiles Medium.jpg\" width=\"902\" height=\"902\" alt=\"\" style=\"vertical-align: bottom;\" />MY DAILY ROUTINE</strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif; color: #c77e98;\"><strong>A Digital English Project</strong></span></h1>\n<p><br /></p>\n<h3 style=\"text-align: center;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif; color: #bfedd2;\">3º Educación Primaria</span></strong><br /><strong><span style=\"font-family: 'comic sans ms', sans-serif; color: #bfedd2;\">Área de Inglés</span></strong><br /><strong><span style=\"font-family: 'comic sans ms', sans-serif; color: #bfedd2;\">Autora: Celia Ortega Serrano</span></strong></h3>\n<p><br /></p>\n<h5 style=\"text-align: center;\"><span style=\"color: #f8cac6; background-color: #ffffff;\"><em><span style=\"font-family: georgia, palatino, serif;\">Learn English through daily routines and digital creation.</span></em></span></h5>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4ldsl-ropfi84l2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldsl-ropfi84l2</odePageId>
+      <odeBlockId>block-1778095911919-khps7l11h</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldsl-ropfi84l2</odePageId>
+          <odeBlockId>block-1778095911919-khps7l11h</odeBlockId>
+          <odeIdeviceId>idevice-1778095911917-remoi5zuy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 18pt; color: #b54c4c;"><strong><img src="{{context_path}}/content/resources/ChatGPT Image 6 may 2026, 21_39_13.png" width="1536" height="1024" style="display: block; margin-left: auto; margin-right: auto;" alt="" /><br /></strong></span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">Esta situación de aprendizaje está dirigida al alumnado de 3º de Educación Primaria dentro del área de Lengua Extranjera: Inglés.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">El proyecto se centra en el aprendizaje de las rutinas diarias mediante el uso de metodologías activas y herramientas digitales, favoreciendo el desarrollo de la competencia comunicativa y la competencia digital del alumnado.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">A lo largo de la situación de aprendizaje, el alumnado trabajará vocabulario y estructuras básicas en lengua inglesa relacionadas con las actividades cotidianas, aprendiendo a expresar información personal de forma oral y escrita.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">El producto final consistirá en la creación de una presentación digital en Canva sobre la rutina diaria del alumnado, que será expuesta oralmente ante el grupo clase.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">La propuesta se desarrollará durante 4 semanas y combinará actividades individuales, en parejas y en pequeños grupos, fomentando el trabajo cooperativo, la participación activa y el uso responsable de la tecnología.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">Además, esta situación de aprendizaje incorpora estrategias de apoyo visual, modelado y acompañamiento guiado para favorecer una integración progresiva de las herramientas digitales y garantizar la participación de todo el alumnado.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778095911917-remoi5zuy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 18pt; color: #b54c4c;\"><strong><img src=\"{{context_path}}/content/resources/ChatGPT Image 6 may 2026, 21_39_13.png\" width=\"1536\" height=\"1024\" style=\"display: block; margin-left: auto; margin-right: auto;\" alt=\"\" /><br /></strong></span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Esta situación de aprendizaje está dirigida al alumnado de 3º de Educación Primaria dentro del área de Lengua Extranjera: Inglés.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">El proyecto se centra en el aprendizaje de las rutinas diarias mediante el uso de metodologías activas y herramientas digitales, favoreciendo el desarrollo de la competencia comunicativa y la competencia digital del alumnado.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">A lo largo de la situación de aprendizaje, el alumnado trabajará vocabulario y estructuras básicas en lengua inglesa relacionadas con las actividades cotidianas, aprendiendo a expresar información personal de forma oral y escrita.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">El producto final consistirá en la creación de una presentación digital en Canva sobre la rutina diaria del alumnado, que será expuesta oralmente ante el grupo clase.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">La propuesta se desarrollará durante 4 semanas y combinará actividades individuales, en parejas y en pequeños grupos, fomentando el trabajo cooperativo, la participación activa y el uso responsable de la tecnología.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Además, esta situación de aprendizaje incorpora estrategias de apoyo visual, modelado y acompañamiento guiado para favorecer una integración progresiva de las herramientas digitales y garantizar la participación de todo el alumnado.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4ldsl-v7eazuffv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldsl-v7eazuffv</odePageId>
+      <odeBlockId>block-1778096482468-l1gwhtgfe</odeBlockId>
+      <blockName>¿Qué vamos a aprender?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldsl-v7eazuffv</odePageId>
+          <odeBlockId>block-1778096482468-l1gwhtgfe</odeBlockId>
+          <odeIdeviceId>idevice-1778096482465-801h8mtqt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif; color: #2dc26b;"><strong><span style="font-size: 18pt;"><img src="{{context_path}}/content/resources/ChatGPT Image 6 may 2026, 21_46_00.png" width="1536" height="1024" alt="" /></span></strong></span></p>
+<p style="text-align: center;"><br /></p>
+<ul style="list-style-type: circle;">
+<li><span style="font-family: 'comic sans ms', sans-serif;"> Aprender vocabulario sobre las rutinas diarias.</span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Hablar y escribir frases sencillas en inglés.</span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Utilizar herramientas digitales como Canva.</span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Crear una presentación digital.</span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Trabajar cooperativamente con los compañeros y compañeras.</span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Utilizar internet de forma segura y responsable.</span></li>
+<li><span style="font-family: 'comic sans ms', sans-serif;">Presentar nuestro trabajo oralmente delante de la clase.</span><span style="font-family: 'comic sans ms', sans-serif;"></span></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778096482465-801h8mtqt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-family: 'comic sans ms', sans-serif; color: #2dc26b;\"><strong><span style=\"font-size: 18pt;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 6 may 2026, 21_46_00.png\" width=\"1536\" height=\"1024\" alt=\"\" /></span></strong></span></p>\n<p style=\"text-align: center;\"><br /></p>\n<ul style=\"list-style-type: circle;\">\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\"> Aprender vocabulario sobre las rutinas diarias.</span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Hablar y escribir frases sencillas en inglés.</span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Utilizar herramientas digitales como Canva.</span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Crear una presentación digital.</span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Trabajar cooperativamente con los compañeros y compañeras.</span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Utilizar internet de forma segura y responsable.</span></li>\n<li><span style=\"font-family: 'comic sans ms', sans-serif;\">Presentar nuestro trabajo oralmente delante de la clase.</span><span style=\"font-family: 'comic sans ms', sans-serif;\"></span></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4ldsm-fz8gv9prz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldsm-fz8gv9prz</odePageId>
+      <odeBlockId>block-1778252902221-b5j6i9evp</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldsm-fz8gv9prz</odePageId>
+          <odeBlockId>block-1778252902221-b5j6i9evp</odeBlockId>
+          <odeIdeviceId>idevice-1778252902218-z7ogwcn0o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="font-size: 18pt; background-color: #ffffff; color: #b54c4c;"><strong><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/ChatGPT Image 8 may 2026, 17_15_59.png" width="1536" height="1024" alt="" /></span></strong></span></p>
+<p><br /><span style="font-family: 'comic sans ms', sans-serif;">El producto final de esta situación de aprendizaje consistirá en la <span style="color: #3e9b6a;"><strong>creación de una presentación digital en Canva sobre la rutina diaria del alumnado</strong></span>.</span></p>
+<p><br /><span style="font-family: 'comic sans ms', sans-serif;">La presentación incluirá:</span></p>
+<p><br /><span style="font-family: 'comic sans ms', sans-serif;">• Rutinas de mañana (morning routines)</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• Rutinas de tarde (afternoon routines)</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• Rutinas de noche (evening routines)</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• Imágenes y elementos visuales</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• Frases sencillas en inglés</span></p>
+<p><br /><span style="font-family: 'comic sans ms', sans-serif;">El alumnado trabajará de forma individual y grupal, utilizando herramientas digitales de manera guiada y responsable.</span></p>
+<p><br /><span style="font-family: 'comic sans ms', sans-serif;">Una vez finalizada la presentación, cada alumno o grupo realizará una exposición oral en inglés delante del grupo clase, utilizando el apoyo visual creado en Canva.</span></p>
+<p><br /><span style="font-family: 'comic sans ms', sans-serif;">A través de este proyecto, el alumnado desarrollará:</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• la expresión oral y escrita en lengua inglesa.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• la competencia digital.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• el trabajo cooperativo.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• el uso seguro y responsable de la tecnología.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778252902218-z7ogwcn0o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"font-size: 18pt; background-color: #ffffff; color: #b54c4c;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 8 may 2026, 17_15_59.png\" width=\"1536\" height=\"1024\" alt=\"\" /></span></strong></span></p>\n<p><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">El producto final de esta situación de aprendizaje consistirá en la <span style=\"color: #3e9b6a;\"><strong>creación de una presentación digital en Canva sobre la rutina diaria del alumnado</strong></span>.</span></p>\n<p><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">La presentación incluirá:</span></p>\n<p><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Rutinas de mañana (morning routines)</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Rutinas de tarde (afternoon routines)</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Rutinas de noche (evening routines)</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Imágenes y elementos visuales</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Frases sencillas en inglés</span></p>\n<p><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">El alumnado trabajará de forma individual y grupal, utilizando herramientas digitales de manera guiada y responsable.</span></p>\n<p><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Una vez finalizada la presentación, cada alumno o grupo realizará una exposición oral en inglés delante del grupo clase, utilizando el apoyo visual creado en Canva.</span></p>\n<p><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">A través de este proyecto, el alumnado desarrollará:</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• la expresión oral y escrita en lengua inglesa.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• la competencia digital.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• el trabajo cooperativo.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• el uso seguro y responsable de la tecnología.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4ldsm-yu89tkk26</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldsm-yu89tkk26</odePageId>
+      <odeBlockId>block-1778253648451-xcqodnf8d</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldsm-yu89tkk26</odePageId>
+          <odeBlockId>block-1778253648451-xcqodnf8d</odeBlockId>
+          <odeIdeviceId>idevice-1778253648448-h4vud1w9m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;" title="Linea temporal.pdf">A continuación, se presenta la secuencia de actividades y sesiones que se desarrollarán durante el proyecto.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;" title="Linea temporal.pdf"></span><br /></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;" title="Linea temporal.pdf"><img src="{{context_path}}/content/resources/linea TEMPORAL.jpg" width="1414" height="2000" alt="" /></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778253648448-h4vud1w9m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"Linea temporal.pdf\">A continuación, se presenta la secuencia de actividades y sesiones que se desarrollarán durante el proyecto.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"Linea temporal.pdf\"></span><br /></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\" title=\"Linea temporal.pdf\"><img src=\"{{context_path}}/content/resources/linea TEMPORAL.jpg\" width=\"1414\" height=\"2000\" alt=\"\" /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4ldsn-dtht6hjnp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesiones del proyecto</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldsn-dtht6hjnp</odePageId>
+      <odeBlockId>block-1778254092838-wott5qbxw</odeBlockId>
+      <blockName>Sesiones del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldsn-dtht6hjnp</odePageId>
+          <odeBlockId>block-1778254092838-wott5qbxw</odeBlockId>
+          <odeIdeviceId>idevice-1778254092835-gqgaczjic</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/ChatGPT Image 8 may 2026, 17_34_02.png" width="1536" height="1024" alt="" /></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">La situación de aprendizaje se desarrollará a lo largo de diferentes sesiones organizadas de forma progresiva, permitiendo al alumnado avanzar desde la adquisición del vocabulario básico hasta la creación y exposición del producto final.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">Durante las sesiones se trabajarán actividades relacionadas con:</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• el aprendizaje de vocabulario sobre las rutinas diarias,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• la comprensión de modelos,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• el uso guiado de herramientas digitales como Canva,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• la planificación de contenidos,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• el trabajo cooperativo,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• y la exposición oral en lengua inglesa.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">La secuencia de actividades ha sido diseñada teniendo en cuenta el nivel de competencia digital del alumnado, incorporando apoyos visuales, modelado y acompañamiento progresivo para favorecer un aprendizaje accesible y significativo.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">La organización temporal completa de las actividades y sesiones puede consultarse en la línea temporal del proyecto.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778254092835-gqgaczjic","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 8 may 2026, 17_34_02.png\" width=\"1536\" height=\"1024\" alt=\"\" /></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">La situación de aprendizaje se desarrollará a lo largo de diferentes sesiones organizadas de forma progresiva, permitiendo al alumnado avanzar desde la adquisición del vocabulario básico hasta la creación y exposición del producto final.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Durante las sesiones se trabajarán actividades relacionadas con:</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• el aprendizaje de vocabulario sobre las rutinas diarias,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• la comprensión de modelos,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• el uso guiado de herramientas digitales como Canva,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• la planificación de contenidos,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• el trabajo cooperativo,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• y la exposición oral en lengua inglesa.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">La secuencia de actividades ha sido diseñada teniendo en cuenta el nivel de competencia digital del alumnado, incorporando apoyos visuales, modelado y acompañamiento progresivo para favorecer un aprendizaje accesible y significativo.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">La organización temporal completa de las actividades y sesiones puede consultarse en la línea temporal del proyecto.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4ldsn-ldfnikrom</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad digital</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldsn-ldfnikrom</odePageId>
+      <odeBlockId>block-1778254574945-sbj59xpgi</odeBlockId>
+      <blockName>Seguridad digital</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldsn-ldfnikrom</odePageId>
+          <odeBlockId>block-1778254574945-sbj59xpgi</odeBlockId>
+          <odeIdeviceId>idevice-1778254574942-89rl3f9i1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/¡Navegamos seguros en internet!.jpg" width="800" height="2000" alt="" /></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">Durante el desarrollo del proyecto, el alumnado aprenderá a utilizar las herramientas digitales de forma segura, responsable y respetuosa.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">Se trabajarán aspectos relacionados con:</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• la protección de datos personales,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• el uso responsable de internet,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• la identidad digital,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• el respeto hacia los demás en entornos digitales,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• y el uso adecuado de imágenes y recursos online.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">Además, el alumnado recibirá orientaciones básicas sobre navegación segura y comportamiento responsable en el uso de herramientas digitales como Canva, Padlet o YouTube.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778254574942-89rl3f9i1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/¡Navegamos seguros en internet!.jpg\" width=\"800\" height=\"2000\" alt=\"\" /></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">Durante el desarrollo del proyecto, el alumnado aprenderá a utilizar las herramientas digitales de forma segura, responsable y respetuosa.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Se trabajarán aspectos relacionados con:</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• la protección de datos personales,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• el uso responsable de internet,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• la identidad digital,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• el respeto hacia los demás en entornos digitales,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• y el uso adecuado de imágenes y recursos online.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Además, el alumnado recibirá orientaciones básicas sobre navegación segura y comportamiento responsable en el uso de herramientas digitales como Canva, Padlet o YouTube.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4ldso-jlrz6r1d0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas digitales</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldso-jlrz6r1d0</odePageId>
+      <odeBlockId>block-1778254809617-apdfmp6p3</odeBlockId>
+      <blockName>Herramientas digitales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldso-jlrz6r1d0</odePageId>
+          <odeBlockId>block-1778254809617-apdfmp6p3</odeBlockId>
+          <odeIdeviceId>idevice-1778254809613-0e0vsp795</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/ChatGPT Image 8 may 2026, 17_43_00.png" width="1536" height="1024" alt="" /></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">Durante el proyecto se utilizarán diferentes herramientas digitales para favorecer un aprendizaje activo, visual y motivador.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">Las principales herramientas empleadas serán:</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">• Canva → creación de la presentación digital.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• Wordwall → aprendizaje interactivo del vocabulario.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• YouTube → visualización de vídeos y ejemplos.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• Padlet → recopilación y organización de recursos.</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• Google Docs → planificación y organización de contenidos.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">Estas herramientas permitirán al alumnado desarrollar progresivamente su competencia digital, aprender a crear contenidos digitales y utilizar la tecnología de forma segura y responsable.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778254809613-0e0vsp795","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 8 may 2026, 17_43_00.png\" width=\"1536\" height=\"1024\" alt=\"\" /></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">Durante el proyecto se utilizarán diferentes herramientas digitales para favorecer un aprendizaje activo, visual y motivador.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Las principales herramientas empleadas serán:</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Canva → creación de la presentación digital.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Wordwall → aprendizaje interactivo del vocabulario.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• YouTube → visualización de vídeos y ejemplos.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Padlet → recopilación y organización de recursos.</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Google Docs → planificación y organización de contenidos.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Estas herramientas permitirán al alumnado desarrollar progresivamente su competencia digital, aprender a crear contenidos digitales y utilizar la tecnología de forma segura y responsable.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4ldso-2vl8e7383</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldso-2vl8e7383</odePageId>
+      <odeBlockId>block-1778255161316-9fg9fbyxs</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldso-2vl8e7383</odePageId>
+          <odeBlockId>block-1778255161316-9fg9fbyxs</odeBlockId>
+          <odeIdeviceId>idevice-1778255161313-zkw2ei60o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">La evaluación del proyecto será continua, formativa y adaptada al nivel del alumnado.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">A lo largo de la situación de aprendizaje se utilizarán diferentes instrumentos de evaluación para valorar:</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• la participación,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• el trabajo cooperativo,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• la expresión oral,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• el aprendizaje del vocabulario,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• y la creación del producto digital final.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">Los principales instrumentos de evaluación serán:</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• rúbrica de evaluación,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• observación directa,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• autoevaluación,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• y valoración del trabajo cooperativo.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">La evaluación permitirá acompañar el proceso de aprendizaje del alumnado y ofrecer apoyos y orientaciones durante el desarrollo del proyecto.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"></span><br /></p>
+<p style="text-align: center;"><span style="color: #b54c4c; font-size: 18pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;">RÚBRICA DE EVALUACIÓN</span></strong></span></p>
+<p style="text-align: center;"><span style="color: #b54c4c; font-size: 18pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-08 174741.png" width="613" height="767" alt="" /></span></strong></span><br /></p>
+<p style="text-align: center;"><span style="color: #b54c4c; font-size: 18pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;"></span></strong></span><br /></p>
+<p style="text-align: center;"><span style="color: #b54c4c; font-size: 18pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;">DIANA DE AUTOEVALUACIÓN</span></strong></span></p>
+<p style="text-align: center;"><span style="color: #b54c4c; font-size: 18pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-08 174749.png" width="695" height="430" alt="" /></span></strong></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778255161313-zkw2ei60o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">La evaluación del proyecto será continua, formativa y adaptada al nivel del alumnado.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">A lo largo de la situación de aprendizaje se utilizarán diferentes instrumentos de evaluación para valorar:</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• la participación,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• el trabajo cooperativo,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• la expresión oral,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• el aprendizaje del vocabulario,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• y la creación del producto digital final.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Los principales instrumentos de evaluación serán:</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• rúbrica de evaluación,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• observación directa,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• autoevaluación,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• y valoración del trabajo cooperativo.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">La evaluación permitirá acompañar el proceso de aprendizaje del alumnado y ofrecer apoyos y orientaciones durante el desarrollo del proyecto.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"></span><br /></p>\n<p style=\"text-align: center;\"><span style=\"color: #b54c4c; font-size: 18pt;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">RÚBRICA DE EVALUACIÓN</span></strong></span></p>\n<p style=\"text-align: center;\"><span style=\"color: #b54c4c; font-size: 18pt;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-08 174741.png\" width=\"613\" height=\"767\" alt=\"\" /></span></strong></span><br /></p>\n<p style=\"text-align: center;\"><span style=\"color: #b54c4c; font-size: 18pt;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\"></span></strong></span><br /></p>\n<p style=\"text-align: center;\"><span style=\"color: #b54c4c; font-size: 18pt;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">DIANA DE AUTOEVALUACIÓN</span></strong></span></p>\n<p style=\"text-align: center;\"><span style=\"color: #b54c4c; font-size: 18pt;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-08 174749.png\" width=\"695\" height=\"430\" alt=\"\" /></span></strong></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4ldso-lfird6s1f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldso-lfird6s1f</odePageId>
+      <odeBlockId>block-1778255429599-wr2vo4qws</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldso-lfird6s1f</odePageId>
+          <odeBlockId>block-1778255429599-wr2vo4qws</odeBlockId>
+          <odeIdeviceId>idevice-1778255429595-hegsbhvqv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><span style="color: #b54c4c;"><strong><span style="font-size: 18pt; font-family: 'comic sans ms', sans-serif;">CONTEXTUALIZACIÓN</span></strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">La presente situación de aprendizaje está dirigida al alumnado de 3º de Educación Primaria dentro del área de Lengua Extranjera: Inglés.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">El proyecto “My Daily Routine” tiene como finalidad desarrollar la competencia comunicativa en lengua inglesa mediante el aprendizaje de vocabulario y expresiones relacionadas con las rutinas diarias, integrando además el uso progresivo y responsable de herramientas digitales.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">La propuesta se desarrolla mediante metodologías activas y aprendizaje cooperativo, favoreciendo la participación activa, la creatividad y el desarrollo de la competencia digital del alumnado.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"></span><br /></p>
+<p style="text-align: center;"><span style="font-size: 18pt;"><strong><span style="font-family: 'comic sans ms', sans-serif; color: #b54c4c;">COMPETENCIAS ESPECÍFICAS</span></strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">• Comprender el sentido general de mensajes orales y escritos sencillos relacionados con situaciones cotidianas.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">• Producir textos orales breves y sencillos utilizando vocabulario básico en lengua inglesa.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">• Interactuar de forma guiada en actividades cooperativas utilizando recursos digitales.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">• Utilizar herramientas digitales de forma segura y responsable para crear contenidos sencillos.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"></span><br /></p>
+<p style="text-align: center;"><span style="color: #b54c4c; font-size: 18pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;">CRITERIOS DE EVALUACIÓN</span></strong></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">• Comprender vocabulario básico relacionado con las rutinas diarias.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">• Expresarse oralmente mediante frases sencillas en lengua inglesa.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">• Participar activamente en actividades cooperativas.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">• Utilizar Canva para crear una presentación digital sencilla.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">• Mostrar actitudes responsables en el uso de herramientas digitales.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"></span><br /></p>
+<p style="text-align: center;"><span style="font-size: 18pt; color: #b54c4c;"><strong><span style="font-family: 'comic sans ms', sans-serif;">SABERES BÁSICOS</span></strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">• Vocabulario relacionado con las rutinas diarias.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">• Estructuras sencillas para expresar hábitos y acciones cotidianas.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">• Estrategias básicas de interacción oral.</span><span style="font-family: 'comic sans ms', sans-serif;"></span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">• Uso guiado de herramientas digitales para la creación de contenidos.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;">• Normas básicas de seguridad y comportamiento digital responsable.</span></p>
+<p><span style="font-family: 'comic sans ms', sans-serif;"></span><br /></p>
+<p style="text-align: center;"><span style="color: #b54c4c; font-size: 18pt;"><strong><span style="font-family: 'comic sans ms', sans-serif;">METODOLOGÍA</span></strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">La metodología utilizada será activa, participativa y basada en proyectos.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">El alumnado aprenderá mediante actividades manipulativas, visuales y cooperativas, favoreciendo el aprendizaje significativo y la participación activa.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">La integración de herramientas digitales permitirá desarrollar progresivamente la competencia digital mediante situaciones reales de aprendizaje.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"></span><br /></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"></span><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778255429595-hegsbhvqv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><span style=\"color: #b54c4c;\"><strong><span style=\"font-size: 18pt; font-family: 'comic sans ms', sans-serif;\">CONTEXTUALIZACIÓN</span></strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">La presente situación de aprendizaje está dirigida al alumnado de 3º de Educación Primaria dentro del área de Lengua Extranjera: Inglés.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">El proyecto “My Daily Routine” tiene como finalidad desarrollar la competencia comunicativa en lengua inglesa mediante el aprendizaje de vocabulario y expresiones relacionadas con las rutinas diarias, integrando además el uso progresivo y responsable de herramientas digitales.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">La propuesta se desarrolla mediante metodologías activas y aprendizaje cooperativo, favoreciendo la participación activa, la creatividad y el desarrollo de la competencia digital del alumnado.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"></span><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif; color: #b54c4c;\">COMPETENCIAS ESPECÍFICAS</span></strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">• Comprender el sentido general de mensajes orales y escritos sencillos relacionados con situaciones cotidianas.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">• Producir textos orales breves y sencillos utilizando vocabulario básico en lengua inglesa.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">• Interactuar de forma guiada en actividades cooperativas utilizando recursos digitales.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">• Utilizar herramientas digitales de forma segura y responsable para crear contenidos sencillos.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"></span><br /></p>\n<p style=\"text-align: center;\"><span style=\"color: #b54c4c; font-size: 18pt;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">CRITERIOS DE EVALUACIÓN</span></strong></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">• Comprender vocabulario básico relacionado con las rutinas diarias.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">• Expresarse oralmente mediante frases sencillas en lengua inglesa.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">• Participar activamente en actividades cooperativas.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">• Utilizar Canva para crear una presentación digital sencilla.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">• Mostrar actitudes responsables en el uso de herramientas digitales.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"></span><br /></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18pt; color: #b54c4c;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">SABERES BÁSICOS</span></strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">• Vocabulario relacionado con las rutinas diarias.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">• Estructuras sencillas para expresar hábitos y acciones cotidianas.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">• Estrategias básicas de interacción oral.</span><span style=\"font-family: 'comic sans ms', sans-serif;\"></span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">• Uso guiado de herramientas digitales para la creación de contenidos.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\">• Normas básicas de seguridad y comportamiento digital responsable.</span></p>\n<p><span style=\"font-family: 'comic sans ms', sans-serif;\"></span><br /></p>\n<p style=\"text-align: center;\"><span style=\"color: #b54c4c; font-size: 18pt;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">METODOLOGÍA</span></strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">La metodología utilizada será activa, participativa y basada en proyectos.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">El alumnado aprenderá mediante actividades manipulativas, visuales y cooperativas, favoreciendo el aprendizaje significativo y la participación activa.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">La integración de herramientas digitales permitirá desarrollar progresivamente la competencia digital mediante situaciones reales de aprendizaje.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"></span><br /></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"></span><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4ldsp-omrfzht7t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atención a la diversidad y DUA</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad y DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atención a la diversidad y DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldsp-omrfzht7t</odePageId>
+      <odeBlockId>block-1778256051429-8ikf7va4v</odeBlockId>
+      <blockName>Atención a la diversidad y DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldsp-omrfzht7t</odePageId>
+          <odeBlockId>block-1778256051429-8ikf7va4v</odeBlockId>
+          <odeIdeviceId>idevice-1778256051426-mco1b05jk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"><img src="{{context_path}}/content/resources/ChatGPT Image 8 may 2026, 18_02_43.png" width="1536" height="1024" alt="" /></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;"></span></p>
+<p style="text-align: justify;"><span style="font-family: 'comic sans ms', sans-serif;">La situación de aprendizaje ha sido diseñada teniendo en cuenta la diversidad del alumnado y los principios del Diseño Universal para el Aprendizaje (DUA).</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">Con el objetivo de favorecer la participación activa y el acceso al aprendizaje de todo el alumnado, se incorporarán diferentes medidas y estrategias metodológicas adaptadas a las necesidades del grupo.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">Entre las principales medidas de atención a la diversidad destacan:</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">• uso de apoyos visuales e imágenes,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• modelado y explicación guiada,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• actividades multinivel,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• agrupamientos flexibles,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• trabajo cooperativo,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• acompañamiento progresivo en el uso de herramientas digitales,</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• y adaptación del ritmo de aprendizaje.</span></p>
+<p style="text-align: justify;"><br /><span style="font-family: 'comic sans ms', sans-serif;">Asimismo, se ofrecerán diferentes formas de participación, expresión y acceso a la información, favoreciendo un aprendizaje más inclusivo, motivador y accesible para todo el alumnado.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778256051426-mco1b05jk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 8 may 2026, 18_02_43.png\" width=\"1536\" height=\"1024\" alt=\"\" /></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\"></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: 'comic sans ms', sans-serif;\">La situación de aprendizaje ha sido diseñada teniendo en cuenta la diversidad del alumnado y los principios del Diseño Universal para el Aprendizaje (DUA).</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Con el objetivo de favorecer la participación activa y el acceso al aprendizaje de todo el alumnado, se incorporarán diferentes medidas y estrategias metodológicas adaptadas a las necesidades del grupo.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Entre las principales medidas de atención a la diversidad destacan:</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• uso de apoyos visuales e imágenes,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• modelado y explicación guiada,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• actividades multinivel,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• agrupamientos flexibles,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• trabajo cooperativo,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• acompañamiento progresivo en el uso de herramientas digitales,</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• y adaptación del ritmo de aprendizaje.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Asimismo, se ofrecerán diferentes formas de participación, expresión y acceso a la información, favoreciendo un aprendizaje más inclusivo, motivador y accesible para todo el alumnado.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox4ldsp-0p7rg19hb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox4ldsp-0p7rg19hb</odePageId>
+      <odeBlockId>block-1778256280056-29lhp8hkk</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox4ldsp-0p7rg19hb</odePageId>
+          <odeBlockId>block-1778256280056-29lhp8hkk</odeBlockId>
+          <odeIdeviceId>idevice-1778256280053-igfanrv3h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="color: #3e9b6a;"><strong><span style="font-family: 'comic sans ms', sans-serif;">Autora:</span></strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">Celia Ortega Serrano</span></p>
+<p style="text-align: justify;"><br /><span style="color: #3e9b6a;"><strong><span style="font-family: 'comic sans ms', sans-serif;">Título del proyecto:</span></strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">My Daily Routine: A Digital English Project</span></p>
+<p style="text-align: justify;"><br /><span style="color: #3e9b6a;"><strong><span style="font-family: 'comic sans ms', sans-serif;">Descripción:</span></strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">Situación de aprendizaje diseñada para 3º de Educación Primaria en el área de Lengua Extranjera: Inglés, centrada en el aprendizaje de las rutinas diarias y el desarrollo de la competencia digital mediante herramientas digitales.</span></p>
+<p style="text-align: justify;"><br /><span style="color: #3e9b6a;"><strong><span style="font-family: 'comic sans ms', sans-serif;">Herramientas utilizadas:</span></strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">• Canva</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• eXeLearning</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• Wordwall</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• Padlet</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• YouTube</span><br /><span style="font-family: 'comic sans ms', sans-serif;">• Google Docs</span></p>
+<p style="text-align: justify;"><br /><span style="color: #3e9b6a;"><strong><span style="font-family: 'comic sans ms', sans-serif;">Imágenes y recursos:</span></strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">Las imágenes utilizadas en este proyecto han sido creadas mediante herramientas de inteligencia artificial o proceden de recursos educativos de uso libre.</span></p>
+<p style="text-align: justify;"><br /><span style="color: #3e9b6a;"><strong><span style="font-family: 'comic sans ms', sans-serif;">Licencia:</span></strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">Recurso educativo creado con finalidad educativa y no comercial.</span></p>
+<p style="text-align: justify;"><br /><span style="color: #3e9b6a;"><strong><span style="font-family: 'comic sans ms', sans-serif;">Curso:</span></strong></span><br /><span style="font-family: 'comic sans ms', sans-serif;">Competencia Digital Docente B2</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778256280053-igfanrv3h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"color: #3e9b6a;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">Autora:</span></strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Celia Ortega Serrano</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"color: #3e9b6a;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">Título del proyecto:</span></strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">My Daily Routine: A Digital English Project</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"color: #3e9b6a;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">Descripción:</span></strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Situación de aprendizaje diseñada para 3º de Educación Primaria en el área de Lengua Extranjera: Inglés, centrada en el aprendizaje de las rutinas diarias y el desarrollo de la competencia digital mediante herramientas digitales.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"color: #3e9b6a;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">Herramientas utilizadas:</span></strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Canva</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• eXeLearning</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Wordwall</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Padlet</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• YouTube</span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">• Google Docs</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"color: #3e9b6a;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">Imágenes y recursos:</span></strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Las imágenes utilizadas en este proyecto han sido creadas mediante herramientas de inteligencia artificial o proceden de recursos educativos de uso libre.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"color: #3e9b6a;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">Licencia:</span></strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Recurso educativo creado con finalidad educativa y no comercial.</span></p>\n<p style=\"text-align: justify;\"><br /><span style=\"color: #3e9b6a;\"><strong><span style=\"font-family: 'comic sans ms', sans-serif;\">Curso:</span></strong></span><br /><span style=\"font-family: 'comic sans ms', sans-serif;\">Competencia Digital Docente B2</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
